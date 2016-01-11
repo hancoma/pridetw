@@ -48,3 +48,9 @@ navigator.notification.activityStop();
         
 
     }
+    function fail(r) {
+navigator.notification.activityStop();
+             
+        
+
+    }
