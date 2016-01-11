@@ -1,3 +1,8 @@
+var mode;
+var code;
+var memberuid;
+var category;
+var deviceid;
 function getImage(data1,data2,data3,data4,data5) {
             mode=data1;
             code=data2;
